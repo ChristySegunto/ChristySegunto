@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChristySegunto
 - 👀 I’m interested in ... Coding??
 - 🌱 I’m currently learning ... Java, HTML/CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... christysgnt@gmail.com
 
 <!---
