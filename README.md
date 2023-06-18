@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div id="header" align="center">
-  <img align="center"src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+  <img align="center"src="https://github.com/ChristySegunto/ChristySegunto/blob/main/Christy%20Segunto.gif" width="1000"/>
 </div>
 
 
