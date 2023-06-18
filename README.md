@@ -5,14 +5,6 @@
 </div>
 
 
-<div id="greet" align="center">
-  <h1>
-    Hello
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
-    I'm Christy<Br>
-    <img src="https://komarev.com/ghpvc/?username=ChristySegunto&style=flat-square&color=ffafcc" alt=""/>
-  </h1>
-</div>
 
 <h2 align="center">Aspiring Software Developer from Manila, Philippines. Dedicated to innovating thru coding. Pushing the boundaries of what is possible in the tech world.<br><br></h2>
 
