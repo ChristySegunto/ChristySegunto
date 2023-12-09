@@ -14,7 +14,7 @@
 - 🏫 Student at Pamantasan ng Lungsod ng Maynila currently taking BS in Information Technology
 - 📫 You can reach me at christysgnt.work@gmail.com
 - ⚡ I spend my spare time watching anime, crocheting, and coding
-- ☕ You can see me most of the time in coffee shops
+
 
 <h2>Language I speak:</h2>
 <p align="left">
