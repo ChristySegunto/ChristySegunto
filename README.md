@@ -51,5 +51,5 @@
 <h2>My Stats:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristySegunto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristySegunto&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristySegunto&layout=compact&theme=vision-friendly-dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChristySegunto&theme=dark&background=000000)](https://git.io/streak-stats)
