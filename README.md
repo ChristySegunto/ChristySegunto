@@ -9,7 +9,7 @@
 <h2 align="center">Aspiring Software Developer from Manila, Philippines. Dedicated to innovating thru coding. Pushing the boundaries of what is possible in the tech world.<br><br></h2>
 
   
-- 🌱 Currently learning Flutter
+- 🌱 Currently learning React Native
 - 👷‍♀️ Currently developing a website and an android app
 - 🏫 Student at Pamantasan ng Lungsod ng Maynila currently taking BS in Information Technology
 - 📫 You can reach me at christysgnt.work@gmail.com
