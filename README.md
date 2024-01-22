@@ -52,5 +52,4 @@
 
 ![](https://raw.githubusercontent.com/ChristySegunto/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristySegunto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristySegunto&layout=compact&theme=vision-friendly-dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChristySegunto&theme=dark&background=000000)](https://git.io/streak-stats)
+
