@@ -10,7 +10,7 @@
 
   
 - 🌱 Currently learning React Native
-- 👷‍♀️ Currently developing a Chatbot
+- 👷‍♀️ Currently developing a Barangay Information System
 - 🏫 Student at Pamantasan ng Lungsod ng Maynila currently taking BS in Information Technology
 - 📫 You can reach me at christysgnt.work@gmail.com
 - ⚡ I spend my spare time watching anime, crocheting, and coding
