@@ -6,7 +6,7 @@
 
 
 
-<h2 align="center">Aspiring Software Developer from Manila, Philippines. Dedicated to innovating thru coding. Pushing the boundaries of what is possible in the tech world.<br><br></h2>
+<h2 align="center">Web Developer from Manila, Philippines. Dedicated to innovating thru coding. Pushing the boundaries of what is possible in the tech world.<br><br></h2>
 
   
 - 🌱 Currently learning React Native
