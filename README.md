@@ -9,8 +9,8 @@
 <h2 align="center">Full Stack Dev from Manila, Philippines. Dedicated to innovating thru coding. Pushing the boundaries of what is possible in the tech world.<br><br></h2>
 
   
-- 🌱 Currently learning React Native
-- 👷‍♀️ Currently developing a Barangay Information System
+- 🌱 Currently learning React, Python
+- 👷‍♀️ Currently developing a Dental Record Management System
 - 🏫 Student at Pamantasan ng Lungsod ng Maynila currently taking BS in Information Technology
 - 📫 You can reach me at christysgnt.work@gmail.com
 - ⚡ I spend my spare time watching anime, crocheting, and coding
