@@ -10,7 +10,7 @@
 
   
 - 🌱 Currently learning React, Python
-- 👷‍♀️ Currently developing a Dental Record Management System
+- 👷‍♀️ Currently developing a Recommender System
 - 🏫 Student at Pamantasan ng Lungsod ng Maynila currently taking BS in Information Technology
 - 📫 You can reach me at christysgnt.work@gmail.com
 - ⚡ I spend my spare time watching anime, crocheting, and coding
