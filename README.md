@@ -38,7 +38,7 @@
   <a href="https://www.facebook.com/christysgnt/">
     <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.instagram.com/chriscs.java/">
+  <a href="https://www.instagram.com/christyseconds/">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href=mailto:"christysgnt.work@gmail.com">
